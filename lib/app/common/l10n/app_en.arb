@@ -1,0 +1,247 @@
+{
+  "@@locale": "en",
+  "appTitle": "Afectod",
+  "errorGeneric": "An error occurred",
+  "retryButton": "Try Again",
+  "cancel": "Cancel",
+  "close": "Close",
+  "delete": "Delete",
+  "create": "Create",
+  "apply": "Apply",
+  "remove": "Remove",
+  "movies": "movies",
+  "moviesCount": "{count} movies",
+  "@moviesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "resultsCount": "{count} results",
+  "@resultsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navDiscover": "Discover",
+  "navFavorites": "Favorites",
+  "navSettings": "Settings",
+  "discoverNoMovies": "No movies found",
+  "favoritesTitle": "My Favorites",
+  "favoritesFilter": "Filter",
+  "favoritesNewList": "New List",
+  "favoritesNoLists": "You don't have any favorite lists yet",
+  "favoritesNoMoviesInList": "No movies in this list yet",
+  "createListTitle": "Create New List",
+  "createListName": "List Name",
+  "createListNameRequired": "Please enter list name",
+  "createListDescription": "Description (Optional)",
+  "addToListTitle": "Add to List",
+  "addToListNoLists": "You haven't created any lists yet",
+  "addToListAutomatic": "Automatic list",
+  "selectListTitle": "Select List",
+  "deleteListTitle": "Delete List",
+  "deleteListConfirm": "Are you sure you want to delete {listName}?",
+  "@deleteListConfirm": {
+    "placeholders": {
+      "listName": {
+        "type": "String"
+      }
+    }
+  },
+  "removeMovieTitle": "Remove Movie",
+  "removeMovieConfirm": "Do you want to remove {movieTitle} from the list?",
+  "@removeMovieConfirm": {
+    "placeholders": {
+      "movieTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "searchTitle": "Search Movies",
+  "searchPlaceholder": "Search movies...",
+  "searchHint": "Use the search bar above\nto search for movies",
+  "searchRecentTitle": "Recent Searches",
+  "searchClearAll": "Clear All",
+  "searchNoResults": "No movies found.",
+  "filterTitle": "Filter",
+  "filterYear": "Year",
+  "filterRating": "Rating",
+  "filterMin": "Min",
+  "filterMax": "Max",
+  "filterYearRange": "Year: {min} - {max}",
+  "@filterYearRange": {
+    "placeholders": {
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "filterRatingRange": "Rating: {min} - {max}",
+  "@filterRatingRange": {
+    "placeholders": {
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "sortTitle": "Sort",
+  "sortAlphabetical": "Alphabetical (A-Z)",
+  "sortYear": "Year",
+  "sortRating": "Rating",
+  "sortDirection": "Sort Direction",
+  "sortAZ": "A-Z",
+  "settingsTitle": "Settings",
+  "settingsAppearance": "Appearance",
+  "settingsLanguageRegion": "Language & Region",
+  "settingsAccount": "Account",
+  "settingsDarkTheme": "Dark Theme",
+  "settingsDarkThemeSubtitle": "Protect your eyes",
+  "settingsLanguage": "Language",
+  "settingsChangePassword": "Change Password",
+  "settingsChangePasswordMessage": "Opening change password page...",
+  "settingsLogout": "Logout",
+  "settingsLogoutConfirm": "Are you sure you want to logout?",
+  "settingsLoggingOut": "Logging out...",
+  "auth_welcome_back": "Welcome Back",
+  "auth_create_account": "Create Account",
+  "auth_login_subtitle": "Sign in to your account",
+  "auth_register_subtitle": "Create a new account",
+  "auth_username": "Username",
+  "auth_username_hint": "Enter your username",
+  "auth_username_required": "Username is required",
+  "auth_username_too_short": "Username must be at least 3 characters",
+  "auth_email": "Email",
+  "auth_email_hint": "Enter your email address",
+  "auth_email_required": "Email is required",
+  "auth_email_invalid": "Please enter a valid email address",
+  "auth_password": "Password",
+  "auth_password_hint": "Enter your password",
+  "auth_password_required": "Password is required",
+  "auth_password_too_short": "Password must be at least 6 characters",
+  "auth_confirm_password": "Confirm Password",
+  "auth_confirm_password_hint": "Re-enter your password",
+  "auth_confirm_password_required": "Password confirmation is required",
+  "auth_passwords_dont_match": "Passwords don't match",
+  "auth_login": "Login",
+  "auth_register": "Register",
+  "auth_dont_have_account": "Don't have an account? Register",
+  "auth_already_have_account": "Already have an account? Login",
+  "auth_email_already_exists": "This email address is already in use",
+  "auth_email_not_found": "This email address is not registered",
+  "auth_password_mismatch": "Email or password is incorrect",
+  "auth_error_occurred": "An error occurred. Please try again",
+  "change_password_title": "Change Password",
+  "change_password_subtitle": "Choose a strong password for your security",
+  "change_password_current": "Current Password",
+  "change_password_current_hint": "Enter your current password",
+  "change_password_current_required": "Current password is required",
+  "change_password_new": "New Password",
+  "change_password_new_hint": "Enter your new password",
+  "change_password_new_required": "New password is required",
+  "change_password_confirm": "Confirm New Password",
+  "change_password_confirm_hint": "Re-enter your new password",
+  "change_password_confirm_required": "New password confirmation is required",
+  "change_password_same_as_current": "New password cannot be the same as current password",
+  "change_password_button": "Change Password",
+  "change_password_success": "Your password has been changed successfully",
+  "change_password_current_wrong": "Current password is incorrect",
+  "genreAction": "Action",
+  "genreAdventure": "Adventure",
+  "genreAnimation": "Animation",
+  "genreComedy": "Comedy",
+  "genreCrime": "Crime",
+  "genreDocumentary": "Documentary",
+  "genreDrama": "Drama",
+  "genreFamily": "Family",
+  "genreFantasy": "Fantasy",
+  "genreHistory": "History",
+  "genreHorror": "Horror",
+  "genreMusic": "Music",
+  "genreMystery": "Mystery",
+  "genreRomance": "Romance",
+  "genreScienceFiction": "Science Fiction",
+  "genreTvMovie": "TV Movie",
+  "genreThriller": "Thriller",
+  "genreWar": "War",
+  "genreWestern": "Western",
+  "genreUnknown": "Genre #{id}",
+  "@genreUnknown": {
+    "placeholders": {
+      "id": {
+        "type": "int"
+      }
+    }
+  },
+  "detailGenres": "Genres",
+  "detailAdditionalInfo": "Additional Info",
+  "detailVideoContent": "Video Content",
+  "detailVideoAvailable": "Available",
+  "detailVideoNotAvailable": "Not Available",
+  "detailAgeRestriction": "Age Restriction",
+  "detailAdultContent": "+18",
+  "detailGeneralAudience": "General Audience",
+  "detailOverview": "Overview",
+  "detailReleaseDate": "Release Date",
+  "detailOriginalLanguage": "Original Language",
+  "detailMovieId": "Movie ID",
+  "selectLanguage": "Select Language",
+  "searchError": "An error occurred while searching",
+  "settingsVersion": "Version {version}",
+  "@settingsVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsCopyright": "© 2026 Afectod. All rights reserved.",
+  "favoritesAllFavorites": "All Favorites",
+  "favoritesAllFavoritesDescription": "All your favorite movies",
+  "languageEn": "English",
+  "languageTr": "Turkish",
+  "languageEs": "Spanish",
+  "languageFr": "French",
+  "languageDe": "German",
+  "languageIt": "Italian",
+  "languageJa": "Japanese",
+  "languageKo": "Korean",
+  "languageZh": "Chinese",
+  "languageRu": "Russian",
+  "languagePt": "Portuguese",
+  "languageAr": "Arabic",
+  "languageHi": "Hindi",
+  "languageNl": "Dutch",
+  "languageSv": "Swedish",
+  "languageNo": "Norwegian",
+  "languageDa": "Danish",
+  "languageFi": "Finnish",
+  "languagePl": "Polish",
+  "languageCs": "Czech",
+  "languageHu": "Hungarian",
+  "languageRo": "Romanian",
+  "languageEl": "Greek",
+  "languageHe": "Hebrew",
+  "languageTh": "Thai",
+  "languageVi": "Vietnamese",
+  "languageId": "Indonesian",
+  "languageMs": "Malay",
+  "detailVotes": "votes",
+  "detailVotesCount": "({count} votes)",
+  "@detailVotesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

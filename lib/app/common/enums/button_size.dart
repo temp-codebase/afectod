@@ -1,0 +1,1 @@
+enum ButtonSize { compact, regular}
